@@ -1,0 +1,11 @@
+.git
+__pycache__/
+*.csv
+*.xlsx
+*.parquet
+data/
+datasets/
+notebooks/
+.venv/
+venv/
+env/
